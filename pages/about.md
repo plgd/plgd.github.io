@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Mon Profil 
+permalink: /mon-profil/
 weight: 3
 ---
 
-# **About Me**
+# **Mon Profil**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Bonjour! :wave:, Je suis un Ingénieur en Procédés Industriels, spécialisé en Énergie et Environnement.<br>
+ Je suis particulièrement motivé par les enjeux et les spécificités de la production d'énergie fissile, fossile et renouvelable. Dans ce cadre, je m’intéresse à la transition énergétique et aux études d’impact environnemental de produits et services. 
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Compétences" source=site.data.programming-skills %}
+{% include about/skills.html title="Langues" source=site.data.other-skills %}
 </div>
 
 <div class="row">

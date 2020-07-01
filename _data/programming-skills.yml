@@ -1,11 +1,28 @@
-- name: HTML5/CSS3
+- name: Gestion de Projet 
   percentage: 90
-  color: danger
+  color: 
 
-- name: Go
-  percentage: 80
+- name: Modélisation 
+  percentage: 95
   color:
 
-- name: Python
-  percentage: 70
-  color: dark
+- name: Énergies bas carbone 
+  percentage: 90
+  color:
+
+- name: Hydraulique 
+  percentage: 95
+  color:
+
+- name: Transferts d'énergie  
+  percentage: 95
+  color: 
+
+- name: Analyse de Cycle de Vie
+  percentage: 80
+  color: 
+
+- name: Analyse de données 
+  percentage: 95
+  color: 
+

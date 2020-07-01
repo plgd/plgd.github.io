@@ -45,7 +45,7 @@
   </button>
 
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav ml-auto"><a class="nav-item nav-link " href="/projets/">Projets</a>
+    <div class="navbar-nav ml-auto"><a class="nav-item nav-link active" href="/projets/">Projets</a>
 
       <a class="nav-item nav-link " href="/articles/">Articles</a>
 
@@ -57,8 +57,40 @@
   </div>
 
 </nav>
-  <div class="col-lg-10 mx-auto mt-5 post">
-  <!-- Collect tags from all posts --><!-- List tags & related posts -->
+  <!-- Remote Projects JS -->
+<script src="/assets/js/remote-projects.js"></script>
+
+<div class="card-columns m-3 mt-5">
+
+  <!-- Remote Projects -->
+  <div class="wow animated fadeIn" data-wow-delay=".15s">
+  <a href="" class="project card text-dark"><div class="card-body">
+      <h5 id="-name" class="card-title"><i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;
+      </h5>
+      <p id="-desc" class="card-text"></p>
+      <p id="-tools" class="card-text"></p>
+    </div>
+  </a>
+</div>
+
+    <script>get_tools("plgd/git-for-wizards")</script>
+
+  <div class="wow animated fadeIn" data-wow-delay=".15s">
+  <a href="" class="project card text-dark"><div class="card-body">
+      <h5 id="-name" class="card-title"><i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;
+      </h5>
+      <p id="-desc" class="card-text"></p>
+      <p id="-tools" class="card-text"></p>
+    </div>
+  </a>
+</div>
+
+    <script>get_tools("plgd/arduino-visitor-counter")</script>
+
+  
+
+  <!-- Local Projects -->
+  
 
 </div>
   </main>

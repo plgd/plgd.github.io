@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: Français
+  percentage: 100
+  color: 
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Espagnol 
+  percentage: 100
+  color: 
+
+- name: Anglais
+  percentage: 98
+  color: 
+
+- name: Portugais
+  percentage: 75
+  color:

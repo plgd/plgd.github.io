@@ -2,14 +2,15 @@
 title               : Pierre Diénot
 description         : >-
                       Ingénieur en Procédés Industriels, Spécialisé en Énergie et Environnement.
-baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : plgd/plgd.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl             : ""            
+repository          : plgd/plgd.github.io    
 remote_theme        : plgd/plgd.github.io
 
 
 ### Plugins ###
 plugins:
   - jemoji
+  - jekyll-sitemap
 
 
 ### Navbar Settings ###
@@ -17,35 +18,18 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  #- documentation/partials/**                           # For Documentation Only
 
 
 ### Author Info ###
 author:
   name              : Pierre Diénot
-  image             : https://i.imgur.com/bPvXC0B.jpg
-# behance          : your_username
-# dribbble          : your_username
+  image             : assets/images/pierredienot.jpg
   email             : pierre@dienot.com
-# facebook          : your_username
-  github            : plgd
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
   linkedin          : pierre-dienot
-# medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
   twitter           : pierredienot
-# vimeo             : your_username
-# youtube           : your_channel_name
-
 
 ### Posts ###
-permalink: /blog/:title
+permalink: /articles/:title
 
 
 ### Collections ###
@@ -53,12 +37,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
 
 
 ### Disqus ###
-disqus: your-short-name-disqus                          # Your website Shortname on disqus
+disqus: plgd                                            # Your website Shortname on disqus
 
 
 ### Analytics ###
@@ -75,11 +57,6 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
