@@ -1,7 +1,12 @@
-- title: Ingénieur Innovation, Haemers Technologies (Bruxelles, Belgique) - Stage
-  from: 2019
-  to: 2020
-  description: 
+- entity: Haemers Technologies
+  link: https://haemers-technologies.com
+  location: Bruxelles, Belgique
+  country: Belgique 
+  role: Ingénieur Innovation - Stage
+  from: Septembre 2019
+  to: Février 2020 (6 mois)
+  description: "Domaine : Optimisation et Maîtrise de la dépollution des sols"
+  details: 
               <b>Proposition d’une méthode de suivi de la dépollution d’hydrocarbures dans le sol :</b>
               <ul><li>Validation d’un appareil de mesure innovant en laboratoire et sur chantier. </li>
               <li>Rédaction d’un protocole opérationnel de suivi de la dépollution à grande échelle.</li>
@@ -9,11 +14,17 @@
               <b>Conception d’un système recupérateur de chaleur fatale :</b>
               <ul><li>Dimensionnement et étude technico-économique.</li></ul>
               <b>Analyse des données et réalisation de représentations graphiques interactives pour les clients.</b> <br>
+  tools: [Gestion de Projet, Optimisation, Travail sur le terrain, Analyse de données, Python]
 
-- title: Ingénieur R&D, Commissariat à l'énergie atomique (Cadarache, France) - Stage 
-  from: 2018
-  to: 2018
-  description: 
+- entity: CEA - Commissariat à l'énergie atomique
+  link: http://cadarache.cea.fr/cad/Pages/Accueil.aspx
+  location: Cadarache, France
+  country: France
+  role: Ingénieur R&D - Stage
+  from: Février
+  to: Aout 2018 (6 mois)
+  description: Projet au sein du Service d'Etudes des Systèmes Innovants
+  details:   
               <b>Conception et modélisation d’un système de stockage de chaleur capable de gérer l’intermittence des Energies Renouvelables.</b><br>
               <ul><li>Pré-dimensionnement d’un Système de Stockage d'Energie innovant.</li>
               <li>Modélisation de ce Système de Stockage avec un logiciel de calcul thermo-hydraulique.</li>
@@ -21,12 +32,4 @@
               <li>Analyse du coût en ressources d'un tel système et présentation à un groupe de travail national.</li></ul>
               <b>Les résultats de ce stage ont menés a la publication d’un <a href="https://hal-cea.archives-ouvertes.fr/cea-02394093/document" target="_blank">article pour la conférence ICAPP</a> 
               "The International Congress on Advances in Nuclear Power Plants" en 2019.</b>
-
-- title: Analyse de Cycle de Vie "Jeans made in Colombia" EAFIT (Medellin, Colombie) - Projet Universitaire
-  from: 2019
-  to: 2019
-  description:  
-                <ul><li>Evaluation de l'impact environnemental d’un jean, notamment en emprunte carbone et besoin d'eau.</li>
-                <li>Proposition de solutions pour réduire l'impact (utilisation du délavage par laser, adopter des bonnes pratique de lavage du jean, utilisation de coton bio).</li> 
-                <li>Présentation des résultats à l'université EAFIT à Medellín, Colombie.</li>
-                <li>Projet de groupe en équipe multiculturelle de trois étudiants.</li></ul>
+  tools: [Gestion de Projet, Modélisation, Hydraulique, Transferts Thermiques, Analyse de données]

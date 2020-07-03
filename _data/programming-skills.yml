@@ -1,28 +1,30 @@
 - name: Gestion de Projet 
   percentage: 90
+  level: Avancé 
   color: 
 
-- name: Modélisation 
-  percentage: 95
-  color:
-
-- name: Énergies bas carbone 
+- name: Modélisation informatique
   percentage: 90
+  level: Avancé
   color:
 
 - name: Hydraulique 
-  percentage: 95
+  percentage: 90
+  level: Avancé
   color:
 
-- name: Transferts d'énergie  
-  percentage: 95
+- name: Transferts thermiques  
+  percentage: 90
+  level: Avancé
   color: 
 
 - name: Analyse de Cycle de Vie
   percentage: 80
+  level: Intermédiaire 
   color: 
 
 - name: Analyse de données 
-  percentage: 95
+  percentage: 80
+  level: Intermédiaire 
   color: 
 

@@ -1,0 +1,43 @@
+- entity: UTC
+  link: https://www.utc.fr
+  location: Compiègne, France
+  country: France 
+  role: Modélisation d'un système de stockage hybride
+  from: 6 mois
+  to: 2019
+  description:  <b>Modélisation Matlab d’un véhicule éléctrique doté de batteries et supercondensateurs :</b>
+  details:
+                <ul><li>Dimensionnement du stockage en fonction d'un profil de charge</li>
+                <li>Simulations et validation de l’intérêt d’un stockage hybride en termes économique et de durée de vie.</li></ul>
+  tools: [Dimensionnement, Energie, Electicité, Modélisation]
+
+- entity: EAFIT
+  link: http://www.eafit.edu.co
+  location: Medellin, Colombie
+  country: Colombie
+  role: Analyse de Cycle de Vie "Jeans made in Colombia"
+  from: 5 mois 
+  to: 2018
+  description: 
+  details: 
+                <ul><li>Evaluation de l'impact environnemental d’un jean, notamment en emprunte carbone et besoin d'eau.</li>
+                <li>Definition du sujet d'étude (un jean made in colombia, vendu en france) et des hypothèses à prendre.</li>
+                <li>Modélisation du cycle de vie sur Umberto du "berceau a la tombe" (craddle to grave, scope 1 2 3).</li>
+                <li>Proposition de solutions pour réduire l'impact (utilisation du délavage par laser, adopter des bonnes pratique de lavage du jean, utilisation de coton bio).</li> 
+                <li>Présentation des résultats à l'université EAFIT à Medellín, Colombie.</li>
+                <li>Projet de groupe en équipe multiculturelle de trois étudiants.</li></ul>
+  tools: [Gestion de Projet, Analyse de données, Evaluation d'impact, Développement Durable]
+
+- entity: UTC & EDF
+  link: https://www.utc.fr
+  location: Compiègne, France
+  country: France 
+  role: Conception d'un procédé de décarbonatation de l'eau
+  from: 6 mois
+  to: 2017
+  description: 
+  details: 
+                <b>Conception d'un procédé de décarbonatation d’eau pour utilisation dans un circuit de refroidissement :</b><br>
+                <ul><li>Etat de l’art, choix du procédé et dimensionnement complet sur excel</li>
+                <li>Validation par le porteur du projet à EDF. Projet en groupe dans une équipe multiculturelle.</li></ul>
+  tools: [Gestion de Projet, Equipe multiculturelle, Dimensionnement Excel, Chimie]

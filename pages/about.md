@@ -1,20 +1,32 @@
 ---
 layout: page
-title: Mon Profil 
+title: ""
 permalink: /mon-profil/
-weight: 3
+weight: 1
 ---
 
 # **Mon Profil**
 
-Bonjour! :wave:, Je suis un Ingénieur en Procédés Industriels, spécialisé en Énergie et Environnement.<br>
- Je suis particulièrement motivé par les enjeux et les spécificités de la production d'énergie fissile, fossile et renouvelable. Dans ce cadre, je m’intéresse à la transition énergétique et aux études d’impact environnemental de produits et services. 
+Bonjour! :wave: Je suis Ingénieur en Procédés, diplômé de l'UTC en 2020 et spécialisé en Énergie et Environnement.<br>
+
+ Je suis motivé par les enjeux et les spécificités de la production d'énergie fissile, fossile et renouvelable dans le mix énergétique. Dans ce cadre, je m’intéresse à la transition énergétique et aux études d’impact environnemental de produits et services. 
+
+ <p class="text-center">{% include elements/button.html link="/assets/resume/CV-PierreDIENOT-FR.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> CV - Français' %}
+ {% include elements/button.html link="/assets/resume/CV-PierreDIENOT-EN.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> CV - English' %}</p>
 
 <div class="row">
 {% include about/skills.html title="Compétences" source=site.data.programming-skills %}
 {% include about/skills.html title="Langues" source=site.data.other-skills %}
 </div>
 
+<b>Certification Anglais</b> : TOEIC - Note maximale 990/990 <br>
+<b>Programmation Informatique</b> : Python (Avancé) - VBA (Intermédiaire)
+
 <div class="row">
-{% include about/timeline.html %}
+{% include about/timeline.html title="Expériences Professionnelles" source=site.data.timeline %}
 </div>
+
+<div class="row">
+{% include about/timelineproj.html title="Projets Universitaires" source=site.data.timelineproj %}
+</div>
+

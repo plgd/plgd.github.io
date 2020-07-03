@@ -1,15 +1,19 @@
 - name: Français
   percentage: 100
+  level: Maternel
   color: 
 
 - name: Espagnol 
   percentage: 100
+  level: Maternel 
   color: 
 
 - name: Anglais
-  percentage: 98
+  percentage: 95
+  level: Certifié C1
   color: 
 
 - name: Portugais
   percentage: 75
+  level: Intermédiaire
   color:
