@@ -1,11 +1,5 @@
 <!DOCTYPE html>
 
-<!--
-  portfolYOU Jekyll theme by Youssef Raafat
-  Free for personal and commercial use under the MIT license
-  https://github.com/YoussefRaafatNasry/portfolYOU
--->
-
 <html lang="en" class="h-100">
 
 <head>
@@ -45,7 +39,12 @@
   </button>
 
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav ml-auto"><a class="nav-item nav-link " href="/mon-profil/"></a>
+    <div class="navbar-nav ml-auto">
+      <article>
+  
+        <a href="/articles/tags" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
+      
+      </article><a class="nav-item nav-link " href="/mon-profil/"></a>
 
       
 
@@ -53,6 +52,7 @@
   </div>
 
 </nav>
+
   <div class="col-lg-10 mx-auto mt-5 post">
   <!-- Collect tags from all posts --><!-- List tags & related posts -->
 
@@ -111,6 +111,9 @@ $(function () {
     $('[data-toggle="tooltip"]').tooltip()
 })
 </script>
+
+
+  <script src="/assets/js/mode-switcher.js"></script>
 
 </body>
 

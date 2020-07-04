@@ -1,7 +1,6 @@
 ### Site Settings ###
 title               : Pierre Diénot
-description         : >-
-                      Ingénieur en Procédés Industriels, Spécialisé en Énergie et Environnement.
+description         : Ingénieur en Procédés Industriels, Spécialisé en Énergie et Environnement.
 baseurl             : ""            
 repository          : plgd/plgd.github.io    
 remote_theme        : plgd/plgd.github.io

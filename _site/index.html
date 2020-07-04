@@ -1,11 +1,5 @@
 <!DOCTYPE html>
 
-<!--
-  portfolYOU Jekyll theme by Youssef Raafat
-  Free for personal and commercial use under the MIT license
-  https://github.com/YoussefRaafatNasry/portfolYOU
--->
-
 <html lang="en" class="h-100">
 
 <head>
@@ -45,7 +39,12 @@
   </button>
 
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav ml-auto"><a class="nav-item nav-link " href="/mon-profil/"></a>
+    <div class="navbar-nav ml-auto">
+      <article>
+  
+        <a href="/" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
+      
+      </article><a class="nav-item nav-link " href="/mon-profil/"></a>
 
       
 
@@ -53,6 +52,7 @@
   </div>
 
 </nav>
+
   <div class="row justify-content-center align-items-center p-4">
   <div class="col-lg-4 col-md-6 text-center mt-4">
 
@@ -64,7 +64,7 @@
       </div>
     </div>
 
-    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">Ingénieur en Procédés Industriels, Spécialisé en Énergie et Environnement.</p>
+    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s"><h8>Ingénieur en Procédés Industriels, Spécialisé en Énergie et Environnement.</h8></p>
     <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">
       <a class="text-center"><a class="m-1 btn btn-outline-primary btn-2 " href="/mon-profil">
   Voir mon Profil
@@ -128,6 +128,9 @@ $(function () {
     $('[data-toggle="tooltip"]').tooltip()
 })
 </script>
+
+
+  <script src="/assets/js/mode-switcher.js"></script>
 
 </body>
 
