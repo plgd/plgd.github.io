@@ -19,8 +19,9 @@ Bonjour! :wave: Je suis Ingénieur en Procédés, diplômé de l'UTC en 2020 et 
 {% include about/skills.html title="Langues" source=site.data.other-skills %}
 </div>
 
-<b>Certification Anglais</b> : TOEIC - Note maximale 990/990 <br>
-<b>Programmation Informatique</b> : Python (Avancé) - VBA (Intermédiaire)
+<b>Certification Anglais</b> : TOEIC - Note maximale 990/990 <br><br>
+<b>Programmation Informatique</b> : Python (Niveau Avancé) - VBA (Niveau Intermédiaire)<br><br>
+<b>Analyse de Cycle de Vie</b> : OpenLCA et Umberto (Niveau Intermédiaire)
 
 <div class="row">
 {% include about/timeline.html title="Expériences Professionnelles" source=site.data.timeline %}
@@ -29,4 +30,5 @@ Bonjour! :wave: Je suis Ingénieur en Procédés, diplômé de l'UTC en 2020 et 
 <div class="row">
 {% include about/timelineproj.html title="Projets Universitaires" source=site.data.timelineproj %}
 </div>
+
 

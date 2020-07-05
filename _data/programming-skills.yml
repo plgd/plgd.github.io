@@ -3,28 +3,33 @@
   level: Avancé 
   color: 
 
-- name: Modélisation informatique
+- name: Modélisation 
   percentage: 90
   level: Avancé
   color:
 
-- name: Hydraulique 
+- name: Procédés Industriels 
   percentage: 90
   level: Avancé
-  color:
+  color: 
 
 - name: Transferts thermiques  
   percentage: 90
   level: Avancé
   color: 
 
-- name: Analyse de Cycle de Vie
-  percentage: 80
-  level: Intermédiaire 
+- name: Système énergétique  
+  percentage: 75
+  level: 
   color: 
-
+  
+- name: Normes environnementales  
+  percentage: 60
+  level: 
+  color: 
+  
 - name: Analyse de données 
   percentage: 80
-  level: Intermédiaire 
+  level:
   color: 
 

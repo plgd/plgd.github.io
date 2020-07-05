@@ -21,6 +21,14 @@
             {%- endfor -%}
           </p>
           <p>{{ item.details }}</p>
+          {%- if item.image -%}
+          <figure class="figure w-100">
+            <img src="{{ item.image }}" class="figure-img img-fluid rounded" alt="{{ include.alt | default: item.caption }}" onclick="window.open(this.src)">
+            {%- if item.caption -%}
+              <figcaption class="figure-caption text-center">{{ item.caption }}</figcaption>
+            {%- endif -%}
+          </figure>
+          {%- endif -%}
           {%- if item.tools -%}
           <p id="tools" class="card-text">
             {%- for tool in item.tools -%}

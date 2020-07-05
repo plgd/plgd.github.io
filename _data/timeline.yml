@@ -10,10 +10,11 @@
               <b>Proposition d’une méthode de suivi de la dépollution d’hydrocarbures dans le sol :</b>
               <ul><li>Validation d’un appareil de mesure innovant en laboratoire et sur chantier. </li>
               <li>Rédaction d’un protocole opérationnel de suivi de la dépollution à grande échelle.</li>
-              <li>Mise en place du protocole sur un chantier de dépollution auprès des clients.</li></ul>
+              <li>Mise en place du protocole sur le chantier de dépollution d'un client.</li></ul>
               <b>Conception d’un système recupérateur de chaleur fatale :</b>
-              <ul><li>Dimensionnement et étude technico-économique.</li></ul>
-              <b>Analyse des données et réalisation de représentations graphiques interactives pour les clients.</b> <br>
+              <ul><li>Dimensionnement et étude technico-économique.</li>
+              <li>Evaluation de l'impact positif sur le besoin en énergie de l'installation (12% d'économie en gaz)</li></ul>
+              <b>Analyse des données et programmation de <a href="/assets/projets/HT-thermographie/Thermographie-exemple.html" target="_blank"> représentations graphiques interactives</a> pour les clients avec Python.</b> <br>
   tools: [Gestion de Projet, Optimisation, Travail sur le terrain, Analyse de données, Python]
 
 - entity: CEA - Commissariat à l'énergie atomique
@@ -30,6 +31,6 @@
               <li>Modélisation de ce Système de Stockage avec un logiciel de calcul thermo-hydraulique.</li>
               <li>Mise à l’épreuve du Système par simulation et validation des contraintes du réseau éléctrique.</li>
               <li>Analyse du coût en ressources d'un tel système et présentation à un groupe de travail national.</li></ul>
-              <b>Les résultats de ce stage ont menés a la publication d’un <a href="https://hal-cea.archives-ouvertes.fr/cea-02394093/document" target="_blank">article pour la conférence ICAPP</a> 
-              "The International Congress on Advances in Nuclear Power Plants" en 2019.</b>
+              <b>Les résultats de ce stage ont menés a la <a href="https://hal-cea.archives-ouvertes.fr/cea-02394093/document" target="_blank"> publication d’un article</a> pour la conférence <a href="https://www.sfen-icapp2019.org" target="_blank"> ICAPP</a> <br> 
+              " The International Congress on Advances in Nuclear Power Plants " en 2019.</b>
   tools: [Gestion de Projet, Modélisation, Hydraulique, Transferts Thermiques, Analyse de données]

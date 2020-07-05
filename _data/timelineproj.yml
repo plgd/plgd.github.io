@@ -7,9 +7,11 @@
   to: 2019
   description:  <b>Modélisation Matlab d’un véhicule éléctrique doté de batteries et supercondensateurs :</b>
   details:
-                <ul><li>Dimensionnement du stockage en fonction d'un profil de charge</li>
-                <li>Simulations et validation de l’intérêt d’un stockage hybride en termes économique et de durée de vie.</li></ul>
-  tools: [Dimensionnement, Energie, Electicité, Modélisation]
+                <ul><li>Etat de l'art des batteries et supercondensateurs</li>
+                <li>Dimensionnement d'un stockage hybride en fonction d'un profil de charge</li>
+                <li>Simulations et validation de l’intérêt d’un stockage hybride en termes économique et de durée de vie.</li>
+                <li>Redaction d'un <a href="/assets/projets/StockageHybride/Papier-StockageHybride.pdf" target="_blank">papier de recherche</a> sur LATEX</li></ul>
+  tools: [Dimensionnement, Gestion de charge électrique, Energie, Electicité, Modélisation]
 
 - entity: EAFIT
   link: http://www.eafit.edu.co
@@ -26,6 +28,8 @@
                 <li>Proposition de solutions pour réduire l'impact (utilisation du délavage par laser, adopter des bonnes pratique de lavage du jean, utilisation de coton bio).</li> 
                 <li>Présentation des résultats à l'université EAFIT à Medellín, Colombie.</li>
                 <li>Projet de groupe en équipe multiculturelle de trois étudiants.</li></ul>
+  image: /assets/projets/ACV/Jeans-LCA.png
+  caption: ACV d'un jean berceau à la tombe avec Umberto
   tools: [Gestion de Projet, Analyse de données, Evaluation d'impact, Développement Durable]
 
 - entity: UTC & EDF
@@ -40,4 +44,6 @@
                 <b>Conception d'un procédé de décarbonatation d’eau pour utilisation dans un circuit de refroidissement :</b><br>
                 <ul><li>Etat de l’art, choix du procédé et dimensionnement complet sur excel</li>
                 <li>Validation par le porteur du projet à EDF. Projet en groupe dans une équipe multiculturelle.</li></ul>
+  image: /assets/projets/process/Process-Decarbonatation.png
+  caption: Process and Instrumentation Diagram (PID)
   tools: [Gestion de Projet, Equipe multiculturelle, Dimensionnement Excel, Chimie]

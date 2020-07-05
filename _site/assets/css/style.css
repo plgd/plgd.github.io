@@ -577,8 +577,6 @@ html[data-theme="dark"] { --link-color: rgb(255, 255, 255); --main-background-co
   html[data-theme="light"] { --link-color: rgb(0, 0, 0); --main-background-color: hsl(0, 0%, 95%); --main-text-color: hsl(0, 0%, 20%); } }
 body { background-color: var(--main-background-color); color: var(--main-text-color); }
 
-a { color: var(--link-color); }
-
 article { max-width: 650px; margin: 0em; }
 
 h5 { color: var(--link-color); }
