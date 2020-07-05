@@ -10,7 +10,7 @@
                 <ul><li>Etat de l'art des batteries et supercondensateurs</li>
                 <li>Dimensionnement d'un stockage hybride en fonction d'un profil de charge</li>
                 <li>Simulations et validation de l’intérêt d’un stockage hybride en termes économique et de durée de vie.</li>
-                <li>Redaction d'un <a href="/assets/projets/StockageHybride/Papier-StockageHybride.pdf" target="_blank">papier de recherche</a> sur LATEX</li></ul>
+                <li>Redaction d'un <a href="/assets/projets/StockageHybride/Papier-StockageHybride.pdf" target="_blank">papier de recherche</a> en LaTeX</li></ul>
   tools: [Dimensionnement, Gestion de charge électrique, Energie, Electicité, Modélisation]
 
 - entity: EAFIT
