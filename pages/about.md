@@ -9,7 +9,7 @@ weight: 1
 
 Bonjour! :wave: Je suis Ingénieur en Procédés, diplômé de l'UTC en 2020 et spécialisé en Énergie et Environnement.<br>
 
- Je suis motivé par les enjeux et les spécificités de la production d'énergie fissile, fossile et renouvelable dans le mix énergétique. Dans ce cadre, je m’intéresse à la transition énergétique et aux études d’impact environnemental de produits et services. 
+Je suis motivé par les enjeux et les spécificités de la production d'énergie fissile, fossile et renouvelable. J'aime étudier les flux de matière et d’énergie dans les procédés industriels et réfléchir à leur place dans le système énergétique. Dans ce cadre, je m’intéresse à la transition énergétique et aux études d’impact environnemental de produits et services.
 
  <p class="text-center">{% include elements/button.html link="/assets/resume/CV-PierreDIENOT-FR.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> CV - Français' %}
  {% include elements/button.html link="/assets/resume/CV-PierreDIENOT-EN.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> CV - English' %}</p>
