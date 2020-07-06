@@ -7,7 +7,7 @@ weight: 1
 
 # **Mon Profil**
 
-Bonjour! :wave: Je suis Ingénieur en Procédés, diplômé de l'UTC en 2020 et spécialisé en Énergie et Environnement.<br>
+Bonjour ! :wave: Je suis Ingénieur en Procédés, diplômé de l'UTC en 2020 et spécialisé en Énergie et Environnement.<br>
 
 Je suis motivé par les enjeux et les spécificités de la production d'énergie fissile, fossile et renouvelable. J'aime étudier les flux de matière et d’énergie dans les procédés industriels et réfléchir à leur place dans le système énergétique. Dans ce cadre, je m’intéresse à la transition énergétique et aux études d’impact environnemental de produits et services.
 

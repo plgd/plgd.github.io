@@ -10,11 +10,14 @@
               <b>Proposition d’une méthode de suivi de la dépollution d’hydrocarbures dans le sol :</b>
               <ul><li>Validation d’un appareil de mesure innovant en laboratoire et sur chantier. </li>
               <li>Rédaction d’un protocole opérationnel de suivi de la dépollution à grande échelle.</li>
-              <li>Mise en place du protocole sur le chantier de dépollution d'un client.</li></ul>
+              <li>Mise en place du protocole sur le chantier d'un client.</li></ul>
               <b>Conception d’un système recupérateur de chaleur fatale :</b>
-              <ul><li>Dimensionnement et étude technico-économique.</li>
-              <li>Evaluation de l'impact positif sur le besoin en énergie de l'installation (12% d'économie en gaz)</li></ul>
-              <b>Analyse des données et programmation de <a href="/assets/projets/HT-thermographie/Thermographie-exemple.html" target="_blank"> représentations graphiques interactives</a> pour les clients avec Python.</b> <br>
+              <ul><li>Dimensionnement sur Excel et étude technico-économique.</li>
+              <li>Evaluation de l'impact positif sur le besoin en énergie de l'installation. (12% d'économie en gaz)</li></ul>
+              <b> Analyse des données et programmation Python :</b>
+              <ul><li> Collecte et traitement de données de températures du sol à dépolluer.</li>
+              <li> Réalisation d'un outil de <a href="/assets/projets/HT-thermographie/Thermographie-exemple.html" target="_blank"> représentations graphiques interactives</a> pour le bureau d'études et les clients avec Python.</li>
+              <li> Présentation au Comité Technique d'Haemers Technologies et validation de l'outil. </li></ul>
   tools: [Gestion de Projet, Optimisation, Travail sur le terrain, Analyse de données, Python]
 
 - entity: CEA - Commissariat à l'énergie atomique
