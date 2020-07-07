@@ -7,12 +7,11 @@ weight: 1
 
 # **Mon Profil**
 
-Bonjour ! :wave: Je suis Ingénieur en Procédés, diplômé de l'UTC en 2020 et spécialisé en Énergie et Environnement.<br>
+Bonjour ! :wave: Je suis Ingénieur en Procédés, diplômé de l'<a href="https://www.utc.fr" target="_blank"> UTC</a> en 2020 et spécialisé en Énergie et Environnement.<br>
 
-Je suis motivé par les enjeux et les spécificités de la production d'énergie fissile, fossile et renouvelable. J'aime étudier les flux de matière et d’énergie dans les procédés industriels et réfléchir à leur place dans le système énergétique. Dans ce cadre, je m’intéresse à la transition énergétique et aux études d’impact environnemental de produits et services.
+Je suis motivé par les enjeux et les spécificités de la production d'énergie fissile, fossile et renouvelable. J'aime étudier les flux de matière et d’énergie dans les procédés industriels, ainsi qu'analyser leur place dans le système énergétique. Dans ce cadre, je m’intéresse à la transition énergétique et aux études d’impact environnemental de produits et services.
 
- <p class="text-center">{% include elements/button.html link="/assets/resume/CV-PierreDIENOT-FR.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> CV - Français' %}
- {% include elements/button.html link="/assets/resume/CV-PierreDIENOT-EN.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> CV - English' %}</p>
+Vous trouverez ici une description de mes compétences et de mon parcours, agrémentées de liens et documents pertinents. <br>
 
 <div class="row">
 {% include about/skills.html title="Compétences" source=site.data.programming-skills %}
@@ -31,4 +30,6 @@ Je suis motivé par les enjeux et les spécificités de la production d'énergie
 {% include about/timelineproj.html title="Projets Universitaires" source=site.data.timelineproj %}
 </div>
 
+<p class="text-center">{% include elements/button.html link="/assets/resume/CV-PierreDIENOT-FR.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> CV - Français' %}
+{% include elements/button.html link="/assets/resume/CV-PierreDIENOT-EN.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> CV - English' %}</p>
 

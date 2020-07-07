@@ -20,14 +20,14 @@
   role: Analyse de Cycle de Vie "Jeans made in Colombia"
   from: 5 mois 
   to: 2018
-  description: 
+  description: <b>Projet de semestre d'échange en équipe multiculturelle de trois étudiants.</b>
   details: 
                 <ul><li>Evaluation de l'impact environnemental d’un jean, notamment en emprunte carbone et besoin d'eau.</li>
                 <li>Definition du sujet d'étude (un jean made in colombia, vendu en france) et des hypothèses à prendre.</li>
                 <li>Modélisation du cycle de vie sur Umberto du "berceau a la tombe" (craddle to grave, scope 1 2 3).</li>
                 <li>Proposition de solutions pour réduire l'impact (utilisation du délavage par laser, adopter des bonnes pratique de lavage du jean, utilisation de coton bio).</li> 
                 <li>Présentation des résultats à l'université EAFIT à Medellín, Colombie.</li>
-                <li>Projet de groupe en équipe multiculturelle de trois étudiants.</li></ul>
+                </ul>
   image: /assets/projets/ACV/Jeans-LCA.png
   caption: ACV d'un jean berceau à la tombe avec Umberto
   tools: [Gestion de Projet, Analyse de données, Evaluation d'impact, Développement Durable]
@@ -41,9 +41,12 @@
   to: 2017
   description: 
   details: 
-                <b>Conception d'un procédé de décarbonatation d’eau pour utilisation dans un circuit de refroidissement :</b><br>
-                <ul><li>Etat de l’art, choix du procédé et dimensionnement complet sur excel</li>
-                <li>Validation par le porteur du projet à EDF. Projet en groupe dans une équipe multiculturelle.</li></ul>
+                <b>Conception d'un procédé de décarbonatation d’eau pour utilisation dans un circuit de refroidissement. Projet en groupe dans une équipe multiculturelle.</b><br>
+                <ul><li>Etat de l’art et choix du procédé.</li>
+                <li>Dimensionnement complet sur Excel.</li>
+                <li>Analyse des risques du système.</li>
+                <li>Présentation du système et validation par le porteur du projet à EDF.</li>
+                </ul>
   image: /assets/projets/process/Process-Decarbonatation.png
   caption: Process and Instrumentation Diagram (PID)
-  tools: [Gestion de Projet, Equipe multiculturelle, Dimensionnement Excel, Chimie]
+  tools: [Gestion de Projet, Equipe multiculturelle, Dimensionnement, Excel, Chimie]
