@@ -11,7 +11,7 @@ Bonjour ! :wave: Je suis Ingénieur en Procédés, diplômé de l'<a href="https
 
 Je suis motivé par les enjeux et les spécificités de la production d'énergie fissile, fossile et renouvelable. J'aime étudier les flux de matière et d’énergie dans les procédés industriels, ainsi qu'analyser leur place dans le système énergétique. Dans ce cadre, je m’intéresse à la transition énergétique et aux études d’impact environnemental de produits et services.
 
-Vous trouverez ici une description de mes compétences et de mon parcours, agrémentées de liens et documents pertinents. <br>
+Vous trouverez ici une description de mes compétences et de mon parcours, agrémentés de liens et documents pertinents. <br>
 
 <div class="row">
 {% include about/skills.html title="Compétences" source=site.data.programming-skills %}
