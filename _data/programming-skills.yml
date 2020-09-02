@@ -23,11 +23,6 @@
   level: 
   color: 
   
-- name: Normes environnementales  
-  percentage: 60
-  level: 
-  color: 
-  
 - name: Analyse de données 
   percentage: 80
   level:
