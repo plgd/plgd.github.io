@@ -13,6 +13,27 @@
                 <li>Redaction d'un <a href="/assets/projets/StockageHybride/Papier-StockageHybride.pdf" target="_blank">papier de recherche</a> en LaTeX</li></ul>
   tools: [Dimensionnement, Gestion de charge électrique, Energie, Electicité, Modélisation]
 
+- entity: UTC
+  link: https://www.utc.fr
+  location: Compiègne, France
+  country: France 
+  role: Étude marketing - Innovation dans l’organisation des jardins partagés
+  from: 6 mois
+  to: 2019
+  description: <b>Étude Marketing pour une application mobile permettant la gestion interne du jardin par ses acteurs, la localisation des jardins et le partage de connaissance autour du jardinage.</b>
+  details:
+                Étude du marché des jardins partagés
+                <ul><li>Identification de l’évolution du nombre de jardins partagés </li>
+                <li>Identification les différents types d’usagers des jardins (segmentation)</li>
+                <li>Identification des lieux d’implémentation classique des jardins partagés</li></ul>
+                Étude des besoins en termes d’organisation et de gestion des jardins partagés
+                <ul><li>Étude de la situation actuelle des jardins collectifs (relations sociales, gestion et organisation)</li>
+                <li>Réalisation d’entretiens et identification des motivations des utilisateurs de jardins partagés</li>
+                <li>Mesure du besoin d’une telle application mobile et de son acceptation</li> 
+                <li>Évaluation du risque technologique et commercial</li></ul> 
+                Rédaction d’un rapport et présentation au porteur du projet
+  tools: [Gestion de Projet, Marketing, Jardins Partagés, Organisation]
+
 - entity: EAFIT
   link: http://www.eafit.edu.co
   location: Medellin, Colombie

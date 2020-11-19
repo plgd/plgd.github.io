@@ -13,15 +13,15 @@
   level: Avancé
   color: 
 
-- name: Transferts thermiques  
-  percentage: 90
-  level: Avancé
-  color: 
+#- name: Transferts thermiques  
+#  percentage: 90
+#  level: Avancé
+#  color: 
 
-- name: Système énergétique  
-  percentage: 75
-  level: 
-  color: 
+#- name: Système énergétique  
+#  percentage: 75
+#  level: 
+#  color: 
   
 - name: Analyse de données 
   percentage: 80

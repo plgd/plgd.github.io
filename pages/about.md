@@ -9,7 +9,7 @@ weight: 1
 
 Bonjour ! :wave: Je suis Ingénieur en Procédés, diplômé de l'<a href="https://www.utc.fr" target="_blank"> UTC</a> en 2020 et spécialisé en Énergie et Environnement.<br>
 
-Je suis motivé par les enjeux de l'énergie et des ressources dans les secteurs de l'industrie, des bâtiments, des transports et des services. J'aime étudier les flux de matière et d’énergie dans les procédés industriels, ainsi qu'analyser leur place dans le système énergétique. Dans ce cadre, je m’intéresse à la transition énergétique et aux études d’impact environnemental de produits et services.
+Je suis motivé par les enjeux de l'énergie et des ressources dans les secteurs de l'industrie, des bâtiments, des transports et des services. J'aime étudier les flux de matière et d’énergie dans les procédés industriels, ainsi qu'analyser leur place d'un point de vue systémique. Dans ce cadre, je m’intéresse à la transition énergétique et aux études d’impact environnemental de produits et services.
 
 Vous trouverez ici une description de mes compétences et de mon parcours, agrémentés de liens et documents pertinents. <br>
 
